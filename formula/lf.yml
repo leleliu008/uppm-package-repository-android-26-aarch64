@@ -1,0 +1,5 @@
+summary: Terminal file manager
+webpage: https://github.com/gokcehan/lf
+version: r26
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/lf-r26-android-26-arm64-v8a.release.tar.xz
+bin-sha: 0a3c06237255efa52b70ad871ce68a09b2f59e5522a9010e4e24a364ad859bc4

@@ -1,0 +1,5 @@
+summary: An open-source HEVC encoder
+webpage: https://github.com/ultravideo/kvazaar
+version: 2.3.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/libkvazaar-2.3.1-android-26-arm64-v8a.release.tar.xz
+bin-sha: 110165faa85ad74d35e4a003c1766669bcbdf8c2aad45999ec10acd5057a8503

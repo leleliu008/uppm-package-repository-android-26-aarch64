@@ -1,0 +1,5 @@
+summary: Asynchronous DNS library
+webpage: https://c-ares.org/
+version: 1.34.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/libcares-1.34.4-android-26-arm64-v8a.release.tar.xz
+bin-sha: a7dcf38e1728eb9d7d41848d3a180e36eb096da5d1fde2c5be18cd06a12577b1

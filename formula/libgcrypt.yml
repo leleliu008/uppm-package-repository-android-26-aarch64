@@ -1,0 +1,5 @@
+summary: Cryptographic library based on the code from GnuPG
+webpage: https://www.gnupg.org/related_software/libgcrypt/
+version: 1.10.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/libgcrypt-1.10.3-android-26-arm64-v8a.release.tar.xz
+bin-sha: f54a66ac92aca6e06e37808bcf7374e118ac9e9da12e833f9c3a012be1e93880

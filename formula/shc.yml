@@ -1,0 +1,5 @@
+summary: Shell Script Compiler
+webpage: https://neurobin.github.io/shc
+version: 4.0.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/shc-4.0.3-android-26-arm64-v8a.release.tar.xz
+bin-sha: b347a1d129b8c0532763bc76cc5588842e5b9516492256cf53cd36161697e6a1

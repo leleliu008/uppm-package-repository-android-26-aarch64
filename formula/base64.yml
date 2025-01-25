@@ -1,0 +1,5 @@
+summary: Encode and decode base64 files
+webpage: https://www.fourmilab.ch/webtools/base64/
+version: 1.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/base64-1.5-android-26-arm64-v8a.release.tar.xz
+bin-sha: c2f909aba672ba0c2d05672f4da3fd8931f564558648b3603fea74a4647c0c8f

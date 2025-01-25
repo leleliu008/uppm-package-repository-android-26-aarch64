@@ -1,0 +1,5 @@
+summary: Cryptographic and SSL/TLS library
+webpage: https://tls.mbed.org
+version: 3.6.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/mbedtls-3.6.0-android-26-arm64-v8a.release.tar.xz
+bin-sha: 6af1c0cbf5c07fba0390ffa49e105bbcfba51bc24e64297cccfd59fc814bcdc6

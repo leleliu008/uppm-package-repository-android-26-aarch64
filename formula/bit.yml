@@ -1,0 +1,5 @@
+summary: A modern Git CLI
+webpage: https://github.com/chriswalz/bit
+version: 1.1.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/bit-1.1.2-android-26-arm64-v8a.release.tar.xz
+bin-sha: 91fda0561706525985d8e9ad2c49f412a31059a0f668b95ecc3d569a39ccc0ab

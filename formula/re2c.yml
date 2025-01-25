@@ -1,0 +1,5 @@
+summary: A free and open-source lexer generator that generates C-based recognizers from regular expressions
+webpage: https://re2c.org/
+version: 4.0.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/re2c-4.0.2-android-26-arm64-v8a.release.tar.xz
+bin-sha: 856d7da83b38ab57f9da54555ea3e5ec28c32d8b33592a6a40a42f70da52df4b

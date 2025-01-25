@@ -1,0 +1,5 @@
+summary: Swiss army knife for Debian repository management
+webpage: https://www.aptly.info/
+version: 1.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/aptly-1.5.0-android-26-arm64-v8a.release.tar.xz
+bin-sha: 16c188dc7bccc3bb286dcf68981eda841d5162c3b8be7c54ce2b1fb0bb157cd9

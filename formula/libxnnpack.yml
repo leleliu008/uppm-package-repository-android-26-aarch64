@@ -1,0 +1,5 @@
+summary: High-efficiency floating-point neural network inference operators for mobile, server, and web
+webpage: https://github.com/google/XNNPACK
+version: 2025.01.25
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/libxnnpack-2025.01.25-android-26-arm64-v8a.release.tar.xz
+bin-sha: a0b9eaba27efe25cde585ed1dbb4325071fb3d37362bba084d9f404d92de3bd4

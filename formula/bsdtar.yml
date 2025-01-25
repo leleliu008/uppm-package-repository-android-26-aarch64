@@ -1,0 +1,5 @@
+summary: BSD tar
+webpage: https://www.libarchive.org/
+version: 3.7.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/bsdtar-3.7.7-android-26-arm64-v8a.release.tar.xz
+bin-sha: 1a41f16f63e72034bfa365a67d8e434da75625eb9c9a6e375a794e485c83d0b1

@@ -1,0 +1,5 @@
+summary: An extremely fast JavaScript bundler and minifier
+webpage: https://esbuild.github.io
+version: 0.24.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/esbuild-0.24.2-android-26-arm64-v8a.release.tar.xz
+bin-sha: 54f56d13d944fbc1464f858654e21c5bc37a78b26c69073384bfc11e82bd0f61

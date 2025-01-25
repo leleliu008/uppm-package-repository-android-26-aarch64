@@ -1,0 +1,5 @@
+summary: A portable and efficient thread pool implementation
+webpage: https://github.com/Maratyszcza/pthreadpool
+version: 2025.01.25
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/pthreadpool-2025.01.25-android-26-arm64-v8a.release.tar.xz
+bin-sha: 2b5b2384b3f22d46d68acc2b5e421e50b2c2f4a3dfe9a9aa6d9770d40d628192

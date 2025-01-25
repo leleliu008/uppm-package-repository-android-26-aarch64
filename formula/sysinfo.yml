@@ -1,0 +1,5 @@
+summary: A command-line tool to get your currently running system information
+webpage: https://github.com/leleliu008/C-examples
+version: 2025.01.25
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/sysinfo-2025.01.25-android-26-arm64-v8a.release.tar.xz
+bin-sha: 5642f7c53306d1f1ed0ff74d3584e95e6ec54761d7929d5ef5a9c6b211e71c8f

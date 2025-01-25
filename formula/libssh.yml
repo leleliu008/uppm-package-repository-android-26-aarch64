@@ -1,0 +1,5 @@
+summary: C library SSHv1/SSHv2 client and server protocols
+webpage: https://www.libssh.org/
+version: 0.10.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/libssh-0.10.6-android-26-arm64-v8a.release.tar.xz
+bin-sha: 806321e2bdaf85d6661c9ded4dba89ebbed11b7da93b60a8df51623709ecb9df

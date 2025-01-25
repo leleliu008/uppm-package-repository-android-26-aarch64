@@ -1,0 +1,5 @@
+summary: A powerful, enterprise-ready, open source web server with automatic HTTPS
+webpage: https://caddyserver.com/
+version: 2.8.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/caddy-2.8.4-android-26-arm64-v8a.release.tar.xz
+bin-sha: c618eb8f46aa6cac764a04be961afd313880127a85cd40f2191a7905ce265bb7

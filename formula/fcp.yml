@@ -1,0 +1,5 @@
+summary: A significantly faster alternative to the classic Unix cp(1) command
+webpage: https://github.com/Svetlitski/fcp
+version: 0.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/fcp-0.2.1-android-26-arm64-v8a.release.tar.xz
+bin-sha: d89fa4ac3ccebc60e13bd00117766d7a587ebef0a45db83250462c5feea800c6

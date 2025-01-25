@@ -1,0 +1,5 @@
+summary: get NIS domain name
+webpage: https://linux.die.net/man/2/getdomainname
+version: 1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/libgetdomainname-1-android-26-arm64-v8a.release.tar.xz
+bin-sha: e3e4e57a84cbe1e0a0717c28abf24b1946ae4301b217cf5b4a7543185abb408f

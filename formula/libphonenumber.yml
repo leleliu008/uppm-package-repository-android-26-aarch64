@@ -1,0 +1,5 @@
+summary: A C++ library for parsing, formatting, and validating international phone numbers
+webpage: https://github.com/google/libphonenumber
+version: 8.13.39
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/libphonenumber-8.13.39-android-26-arm64-v8a.release.tar.xz
+bin-sha: e5bf750b372fb21af417fb273aa37c85fb983cf088f77fb71713fe2818dbace1

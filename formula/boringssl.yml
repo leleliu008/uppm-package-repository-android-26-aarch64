@@ -1,0 +1,5 @@
+summary: A fork of OpenSSL that is designed to meet Google needs
+webpage: https://boringssl.googlesource.com/boringssl/
+version: 2025.01.25
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/boringssl-2025.01.25-android-26-arm64-v8a.release.tar.xz
+bin-sha: 837f1e36c15fd92c0b5673ec371705251a521c7934519a41d5ab7ad633977ad5

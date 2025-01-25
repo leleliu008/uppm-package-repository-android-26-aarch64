@@ -1,0 +1,5 @@
+summary: Cross-platform make
+webpage: https://www.cmake.org/
+version: 3.30.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/cmake-3.30.3-android-26-arm64-v8a.release.tar.xz
+bin-sha: 47abf4d72fd96eadadb54481ac79cf10e05c1b36b8507e302738a5ab4c547693

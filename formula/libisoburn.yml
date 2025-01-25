@@ -1,0 +1,5 @@
+summary: Frontend for libraries libburn and libisofs
+webpage: https://www.libburnia-project.org
+version: 1.5.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/libisoburn-1.5.2-android-26-arm64-v8a.release.tar.xz
+bin-sha: 6b536b35d9678786a482f4ae51ad7fa7edd324bccd7469f46bb46671b88d2f61

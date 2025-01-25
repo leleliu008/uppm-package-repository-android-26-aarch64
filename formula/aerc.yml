@@ -1,0 +1,5 @@
+summary: Email client that runs in your terminal
+webpage: https://aerc-mail.org/
+version: 0.19.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/aerc-0.19.0-android-26-arm64-v8a.release.tar.xz
+bin-sha: 6f80be401450c6637604c5b3510c07051280ff043e600e17e3e153e76e8fffc3

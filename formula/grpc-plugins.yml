@@ -1,0 +1,5 @@
+summary: grpc plugins
+webpage: https://grpc.io
+version: 1.64.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/grpc-plugins-1.64.0-android-26-arm64-v8a.release.tar.xz
+bin-sha: 3eb792b266a175b9b48dcd8b51997ca050a6ec647569eeba4db52978849920f1

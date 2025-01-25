@@ -1,0 +1,5 @@
+summary: Cryptography and SSL/TLS Toolkit
+webpage: https://www.openssl.org/
+version: 1.1.1w
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/openssl-dev-1.1.1w-android-26-arm64-v8a.release.tar.xz
+bin-sha: 623ba517652f60ed670b53708e9d64fccd8a75fe5a71b750a893dbfa7d3dd6aa

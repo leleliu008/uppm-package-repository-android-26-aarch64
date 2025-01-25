@@ -1,0 +1,5 @@
+summary: QR Code generation
+webpage: https://fukuchi.org/works/qrencode
+version: 4.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-26-aarch64/releases/download/2025.01.25/libqrencode-4.1.1-android-26-arm64-v8a.release.tar.xz
+bin-sha: 2acb10a663931df03142d959e8af54196ed93a41d86f136ffc8c0b0ac1c92a3e
